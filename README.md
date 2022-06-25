@@ -1,2 +1,2 @@
 # Attack-On-Pseudonymization
- Implementatio of a pseudonymization attack on randomly generated data
+ Implementation of a pseudonymization attack on randomly generated data
